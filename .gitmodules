@@ -4,3 +4,6 @@
 [submodule "wp-content/plugins/acf-to-rest-api"]
 	path = wp-content/plugins/acf-to-rest-api
 	url = https://github.com/airesvsg/acf-to-rest-api.git
+[submodule "wp-content/plugins/wp-rest-filter"]
+	path = wp-content/plugins/wp-rest-filter
+	url = https://github.com/SK8-PTY-LTD/wp-rest-filter.git
