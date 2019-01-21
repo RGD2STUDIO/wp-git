@@ -1,3 +1,3 @@
-# WP Git Template
+# WP Starter
 
-Basic starter repo for building reactive Javascript front ends on top of Wordpress.
+This is a stripped-down Wordpress repo. Use it as a starting point for building a reactive Javascript front end on top of your CMS content.
