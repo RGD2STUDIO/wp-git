@@ -1,3 +1,6 @@
 [submodule "wp-content/plugins/advanced-custom-fields-pro"]
 	path = wp-content/plugins/advanced-custom-fields-pro
 	url = https://github.com/wp-premium/advanced-custom-fields-pro.git
+[submodule "wp-content/plugins/acf-to-rest-api"]
+	path = wp-content/plugins/acf-to-rest-api
+	url = https://github.com/airesvsg/acf-to-rest-api.git
