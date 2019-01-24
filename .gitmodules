@@ -10,3 +10,6 @@
 [submodule "wp-content/plugins/classic-editor"]
 	path = wp-content/plugins/classic-editor
 	url = https://github.com/WordPress/classic-editor.git
+[submodule "wp-content/themes/wp-vue"]
+	path = wp-content/themes/wp-vue
+	url = https://github.com/rafegoldberg/wp-vue.git
