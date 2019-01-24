@@ -7,3 +7,6 @@
 [submodule "wp-content/plugins/wp-rest-filter"]
 	path = wp-content/plugins/wp-rest-filter
 	url = https://github.com/SK8-PTY-LTD/wp-rest-filter.git
+[submodule "wp-content/plugins/classic-editor"]
+	path = wp-content/plugins/classic-editor
+	url = https://github.com/WordPress/classic-editor.git
