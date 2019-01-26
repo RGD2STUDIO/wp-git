@@ -13,3 +13,6 @@
 [submodule "wp-content/themes/wp-vue"]
 	path = wp-content/themes/wp-vue
 	url = https://github.com/rafegoldberg/wp-vue.git
+[submodule "wp-content/plugins/acf-post-type-selector"]
+	path = wp-content/plugins/acf-post-type-selector
+	url = https://github.com/rafegoldberg/acf-post-type-selector.git
